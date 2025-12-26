@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SmartAppointmentSystem/1.0.0": {
+        "runtime": {
+          "SmartAppointmentSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartAppointmentSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

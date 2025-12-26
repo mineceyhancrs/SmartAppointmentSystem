@@ -1,0 +1,15 @@
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\bin\Debug\net9.0\SmartAppointmentSystem.exe
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\bin\Debug\net9.0\SmartAppointmentSystem.deps.json
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\bin\Debug\net9.0\SmartAppointmentSystem.runtimeconfig.json
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\bin\Debug\net9.0\SmartAppointmentSystem.dll
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\bin\Debug\net9.0\SmartAppointmentSystem.pdb
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\obj\Debug\net9.0\SmartAppointmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\obj\Debug\net9.0\SmartAppointmentSystem.AssemblyInfoInputs.cache
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\obj\Debug\net9.0\SmartAppointmentSystem.AssemblyInfo.cs
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\obj\Debug\net9.0\SmartAppointmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\obj\Debug\net9.0\SmartAppointmentSystem.sourcelink.json
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\obj\Debug\net9.0\SmartAppointmentSystem.dll
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\obj\Debug\net9.0\refint\SmartAppointmentSystem.dll
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\obj\Debug\net9.0\SmartAppointmentSystem.pdb
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\obj\Debug\net9.0\SmartAppointmentSystem.genruntimeconfig.cache
+C:\Users\mine.ceyhan\Documents\NOVA\Codes\SmartAppointmentSystem\obj\Debug\net9.0\ref\SmartAppointmentSystem.dll
